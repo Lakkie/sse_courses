@@ -2,7 +2,8 @@
 # University of Chinese Academy of Sciences - School of Space Exploration
 https://sse.ucas.ac.cn/index.php/zh/
 
-|课程编号|课程名称|英文名称|课程属性   |所属学科|学时|学分|考核方式|开课学期|授课方式|首席教授|主讲教师
+|课程编号|课程名称|英文名称|课程属性|所属学科|学时|学分|考核方式|开课学期|授课方式|首席教授|主讲教师|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |082500M02006H|结构动力学理论与计算机方法|Structural Dynamics Theory and Computer Methods|一级学科普及课|航空宇航科学与技术|40|2.00|闭卷笔试|春|课堂讲授为主|王生|杨燕初
 |082500M02010H|航天航空图像智能处理与应用|Intelligent Digital Image Processing and Applications of Aerospace|一级学科普及课|航空宇航科学与技术|34|2.00|实验报告|春|课堂讲授为主|李盛阳|万雪
 |082500M01010H|有效载荷热分析与设计|Payload Thermal Design and Analysis|一级学科核心课|航空宇航科学与技术|54|3.00|闭卷笔试|春|课堂讲授为主|张汉勋|陈博
